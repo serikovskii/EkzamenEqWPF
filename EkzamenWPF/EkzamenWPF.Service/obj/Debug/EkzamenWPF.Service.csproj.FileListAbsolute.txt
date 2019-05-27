@@ -1,0 +1,15 @@
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\EkzamenWPF.Service.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\EkzamenWPF.Service.pdb
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\EkzamenWPF.DTO.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\MaterialDesignColors.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\EkzamenWPF.DTO.pdb
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\obj\Debug\EkzamenWPF.Service.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\obj\Debug\EkzamenWPF.Service.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\obj\Debug\EkzamenWPF.Service.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\obj\Debug\EkzamenWPF.Service.dll
+C:\Users\МукушевА.CORP\source\repos\EkzamenWPF\EkzamenWPF.Service\obj\Debug\EkzamenWPF.Service.pdb
